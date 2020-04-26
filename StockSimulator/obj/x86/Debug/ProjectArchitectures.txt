@@ -1,0 +1,1 @@
+C:\User Program Files\CSC\StockSimulator\StockSimulator.csproj;x86
