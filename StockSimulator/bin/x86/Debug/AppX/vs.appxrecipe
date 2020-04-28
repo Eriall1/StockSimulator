@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>ITE23282</Machine>
-    <WindowsUser>1025074</WindowsUser>
+    <Machine>JAMES</Machine>
+    <WindowsUser>James</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>981371d4-5695-4db5-a03e-399b59d3a4a7</PackageIdentityName>
     <PackageIdentityPublisher>CN=1025074</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\User Program Files\CSC\StockSimulator\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\James\Desktop\ALL\gen\ree\Py\CSC\Stock 2\StockSimulator\StockSimulator\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,8 +18,8 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\User Program Files\CSC\StockSimulator\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>2B74A0B1E009C405A564CF305B46FF2FD7C8CEAB479FB9E1EB1FC9626382A6D1</RegisteredManifestChecksum>
+    <LayoutDir>C:\Users\James\Desktop\ALL\gen\ree\Py\CSC\Stock 2\StockSimulator\StockSimulator\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>00F45952F2B4E143334DFC94A982F8873773CC455AD5F859AF78C2B3C2B13E67</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>981371d4-5695-4db5-a03e-399b59d3a4a7_1.0.0.0_x86__6wchchmvta040</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>981371d4-5695-4db5-a03e-399b59d3a4a7_6wchchmvta040!App</RegisteredUserModeAppID>
     <RegisteredPackageID>981371d4-5695-4db5-a03e-399b59d3a4a7</RegisteredPackageID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\User Program Files\CSC\StockSimulator\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\James\Desktop\ALL\gen\ree\Py\CSC\Stock 2\StockSimulator\StockSimulator\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-04-13T04:02:09.738</Modified>
+      <Modified>2020-04-27T15:48:20.724</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\User Program Files\CSC\StockSimulator\bin\x86\Debug\StockSimulator.exe">
+    <AppxPackagedFile Include="C:\Users\James\Desktop\ALL\gen\ree\Py\CSC\Stock 2\StockSimulator\StockSimulator\bin\x86\Debug\StockSimulator.exe">
       <PackagePath>entrypoint\StockSimulator.exe</PackagePath>
-      <Modified>2020-04-13T04:02:07.929</Modified>
+      <Modified>2020-04-27T15:48:19.904</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.9\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -46,87 +46,91 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2019-03-18T10:36:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\User Program Files\CSC\StockSimulator\company names.txt">
+    <AppxPackagedFile Include="C:\Users\James\Desktop\ALL\gen\ree\Py\CSC\Stock 2\StockSimulator\StockSimulator\company names.txt">
       <PackagePath>company names.txt</PackagePath>
-      <Modified>2020-04-02T13:38:48.704</Modified>
+      <Modified>2020-04-26T12:40:29.849</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\User Program Files\CSC\StockSimulator\epic gamer house.JPG">
+    <AppxPackagedFile Include="C:\Users\James\Desktop\ALL\gen\ree\Py\CSC\Stock 2\StockSimulator\StockSimulator\epic gamer house.JPG">
       <PackagePath>epic gamer house.JPG</PackagePath>
-      <Modified>2020-04-07T13:54:20.586</Modified>
+      <Modified>2020-04-26T12:40:29.856</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\User Program Files\CSC\StockSimulator\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\James\Desktop\ALL\gen\ree\Py\CSC\Stock 2\StockSimulator\StockSimulator\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2020-04-02T11:11:33.419</Modified>
+      <Modified>2020-04-26T12:40:29.672</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\User Program Files\CSC\StockSimulator\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\James\Desktop\ALL\gen\ree\Py\CSC\Stock 2\StockSimulator\StockSimulator\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2020-03-23T05:28:20.084</Modified>
+      <Modified>2020-04-26T12:40:29.660</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\User Program Files\CSC\StockSimulator\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\James\Desktop\ALL\gen\ree\Py\CSC\Stock 2\StockSimulator\StockSimulator\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-23T05:28:20.084</Modified>
+      <Modified>2020-04-26T12:40:29.661</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\User Program Files\CSC\StockSimulator\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\James\Desktop\ALL\gen\ree\Py\CSC\Stock 2\StockSimulator\StockSimulator\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-23T05:28:20.084</Modified>
+      <Modified>2020-04-26T12:40:29.662</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\User Program Files\CSC\StockSimulator\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\James\Desktop\ALL\gen\ree\Py\CSC\Stock 2\StockSimulator\StockSimulator\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-23T05:28:20.084</Modified>
+      <Modified>2020-04-26T12:40:29.663</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\User Program Files\CSC\StockSimulator\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\James\Desktop\ALL\gen\ree\Py\CSC\Stock 2\StockSimulator\StockSimulator\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-23T05:28:20.084</Modified>
+      <Modified>2020-04-26T12:40:29.664</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\User Program Files\CSC\StockSimulator\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\James\Desktop\ALL\gen\ree\Py\CSC\Stock 2\StockSimulator\StockSimulator\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-23T05:28:20.084</Modified>
+      <Modified>2020-04-26T12:40:29.666</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\User Program Files\CSC\StockSimulator\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\James\Desktop\ALL\gen\ree\Py\CSC\Stock 2\StockSimulator\StockSimulator\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-23T05:28:20.084</Modified>
+      <Modified>2020-04-26T12:40:29.667</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\User Program Files\CSC\StockSimulator\bin\x86\Debug\StockSimulator.xr.xml">
+    <AppxPackagedFile Include="C:\Users\James\Desktop\ALL\gen\ree\Py\CSC\Stock 2\StockSimulator\StockSimulator\bin\x86\Debug\StockSimulator.xr.xml">
       <PackagePath>StockSimulator.xr.xml</PackagePath>
-      <Modified>2020-04-13T04:02:07.349</Modified>
+      <Modified>2020-04-27T14:40:08.558</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\User Program Files\CSC\StockSimulator\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\James\Desktop\ALL\gen\ree\Py\CSC\Stock 2\StockSimulator\StockSimulator\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-04-13T04:02:07.444</Modified>
+      <Modified>2020-04-27T15:48:19.563</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\User Program Files\CSC\StockSimulator\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\James\Desktop\ALL\gen\ree\Py\CSC\Stock 2\StockSimulator\StockSimulator\bin\x86\Debug\CoverPage.xbf">
+      <PackagePath>CoverPage.xbf</PackagePath>
+      <Modified>2020-04-27T15:48:19.563</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James\Desktop\ALL\gen\ree\Py\CSC\Stock 2\StockSimulator\StockSimulator\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-04-13T04:02:07.444</Modified>
+      <Modified>2020-04-27T15:48:19.564</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\User Program Files\CSC\StockSimulator\bin\x86\Debug\page1.xbf">
+    <AppxPackagedFile Include="C:\Users\James\Desktop\ALL\gen\ree\Py\CSC\Stock 2\StockSimulator\StockSimulator\bin\x86\Debug\page1.xbf">
       <PackagePath>page1.xbf</PackagePath>
-      <Modified>2020-04-13T04:02:07.444</Modified>
+      <Modified>2020-04-27T15:48:19.564</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\User Program Files\CSC\StockSimulator\bin\x86\Debug\page2.xbf">
+    <AppxPackagedFile Include="C:\Users\James\Desktop\ALL\gen\ree\Py\CSC\Stock 2\StockSimulator\StockSimulator\bin\x86\Debug\page2.xbf">
       <PackagePath>page2.xbf</PackagePath>
-      <Modified>2020-04-13T04:02:07.445</Modified>
+      <Modified>2020-04-27T15:48:19.564</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\User Program Files\CSC\StockSimulator\bin\x86\Debug\SettingsPage.xbf">
+    <AppxPackagedFile Include="C:\Users\James\Desktop\ALL\gen\ree\Py\CSC\Stock 2\StockSimulator\StockSimulator\bin\x86\Debug\SettingsPage.xbf">
       <PackagePath>SettingsPage.xbf</PackagePath>
-      <Modified>2020-04-13T04:02:07.445</Modified>
+      <Modified>2020-04-27T15:48:19.564</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2019-03-18T09:33:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\User Program Files\CSC\StockSimulator\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\James\Desktop\ALL\gen\ree\Py\CSC\Stock 2\StockSimulator\StockSimulator\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-04-07T13:55:05.181</Modified>
+      <Modified>2020-04-27T14:40:43.732</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\User Program Files\CSC\StockSimulator\bin\x86\Debug\Core\StockSimulator.exe">
+    <AppxPackagedFile Include="C:\Users\James\Desktop\ALL\gen\ree\Py\CSC\Stock 2\StockSimulator\StockSimulator\bin\x86\Debug\Core\StockSimulator.exe">
       <PackagePath>StockSimulator.exe</PackagePath>
-      <Modified>2020-04-13T04:02:09.701</Modified>
+      <Modified>2020-04-27T15:48:20.716</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
@@ -186,36 +190,36 @@
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.27323.0</Version>
+      <Version>14.0.27810.0</Version>
       <Architecture>ARM</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.27323.0</Version>
+      <Version>14.0.27810.0</Version>
       <Architecture>ARM64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.27323.0</Version>
+      <Version>14.0.27810.0</Version>
       <Architecture>x64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.27323.0</Version>
+      <Version>14.0.27810.0</Version>
       <Architecture>x86</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>

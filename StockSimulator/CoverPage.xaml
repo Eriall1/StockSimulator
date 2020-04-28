@@ -1,0 +1,21 @@
+﻿<Page
+    x:Class="StockSimulator.CoverPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:StockSimulator"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:muxc="using:Windows.UI.Xaml.Controls"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <!-- xmlns:muxc="using:Microsoft.UI.Xaml.Controls" -->
+    <Grid>
+        <TextBlock x:Name="CoverMainTitle" HorizontalAlignment="Left" Height="188" Margin="488,323,0,0" Text="Stock Simulator" TextWrapping="Wrap" VerticalAlignment="Top" Width="1080" SelectionChanged="TextBlock_SelectionChanged" FontSize="120" FontFamily="NSimSun"/>
+        <TextBlock HorizontalAlignment="Left" Height="51" Margin="966,460,0,0" Text="By James O'Grady" TextWrapping="Wrap" VerticalAlignment="Top" Width="398" FontSize="30"/>
+        <Button x:Name="CoverStartButton" Content="Start" Height="106" Margin="348,792,0,0" VerticalAlignment="Top" Width="352" FontSize="30" Click="CoverStartButton_Click"/>
+        <Button x:Name="CoverQuitButton" Content="Quit" Height="106" Margin="1264,792,0,0" VerticalAlignment="Top" Width="352" FontSize="30" Click="CoverQuitButton_Click"/>
+
+    </Grid>
+
+</Page>

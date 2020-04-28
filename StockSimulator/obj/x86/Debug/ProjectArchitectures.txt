@@ -1,1 +1,1 @@
-C:\User Program Files\CSC\StockSimulator\StockSimulator.csproj;x86
+C:\Users\James\Desktop\ALL\gen\ree\Py\CSC\Stock 2\StockSimulator\StockSimulator\StockSimulator.csproj;x86

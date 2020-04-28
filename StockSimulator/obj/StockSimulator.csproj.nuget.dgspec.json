@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\User Program Files\\CSC\\StockSimulator\\StockSimulator.csproj": {}
+    "C:\\Users\\James\\Desktop\\ALL\\gen\\ree\\Py\\CSC\\Stock 2\\StockSimulator\\StockSimulator\\StockSimulator.csproj": {}
   },
   "projects": {
-    "C:\\User Program Files\\CSC\\StockSimulator\\StockSimulator.csproj": {
+    "C:\\Users\\James\\Desktop\\ALL\\gen\\ree\\Py\\CSC\\Stock 2\\StockSimulator\\StockSimulator\\StockSimulator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\User Program Files\\CSC\\StockSimulator\\StockSimulator.csproj",
+        "projectUniqueName": "C:\\Users\\James\\Desktop\\ALL\\gen\\ree\\Py\\CSC\\Stock 2\\StockSimulator\\StockSimulator\\StockSimulator.csproj",
         "projectName": "StockSimulator",
-        "projectPath": "C:\\User Program Files\\CSC\\StockSimulator\\StockSimulator.csproj",
-        "packagesPath": "C:\\Users\\1025074\\.nuget\\packages\\",
-        "outputPath": "C:\\User Program Files\\CSC\\StockSimulator\\obj\\",
+        "projectPath": "C:\\Users\\James\\Desktop\\ALL\\gen\\ree\\Py\\CSC\\Stock 2\\StockSimulator\\StockSimulator\\StockSimulator.csproj",
+        "packagesPath": "C:\\Users\\James\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\James\\Desktop\\ALL\\gen\\ree\\Py\\CSC\\Stock 2\\StockSimulator\\StockSimulator\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\1025074\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\James\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
